@@ -1,4 +1,4 @@
-Live Algo Trading Prototype
+## Live Algo Trading Prototype
 
 This is a prototype algorithmic trading system that supports backtesting and live data simulation. It demonstrates basic trading strategies, portfolio tracking, and visualization using Python, FastAPI, and React.
 
@@ -18,7 +18,8 @@ This is a prototype algorithmic trading system that supports backtesting and liv
 ```bash
 cd backend
 pip install -r requirements.txt
-uvicorn app:app --reload 
+uvicorn app:app --reload
+
 ### Frontend
 cd frontend
 npm install
